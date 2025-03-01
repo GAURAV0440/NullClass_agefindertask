@@ -14,3 +14,15 @@ This project is an Age Prediction Model that uses a pre-trained machine learning
 🎯 Model Performance
 Evaluated using confusion matrix, precision, recall, and accuracy metrics.
 Optimized for performance and accuracy.
+
+📂 Dataset
+The dataset used for this project is the UTKFace Dataset, which contains images of faces labeled with age, gender, and ethnicity.
+You can access and download the dataset from Kaggle:
+👉 UTKFace Dataset
+https://www.kaggle.com/datasets/jangedoo/utkface-new
+
+Instructions to Use the Dataset:
+
+Download the dataset from Kaggle.
+Extract the files and place them in the dataset/ folder within the project directory.
+Ensure the dataset path is correctly referenced in the code.
